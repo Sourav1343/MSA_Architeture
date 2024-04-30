@@ -1,0 +1,5 @@
+rootProject.name = 'MSA_Architeture'
+include 'Service_1'
+include 'Service_2'
+include 'Service_3'
+
