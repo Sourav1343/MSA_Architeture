@@ -11,6 +11,20 @@ repositories {
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
+
+    // Spring Web
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // Spring Boot DevTools
+    developmentOnly 'org.springframework.boot:spring-boot-devtools'
+
+    // Spring Boot Actuator
+    implementation 'org.springframework.boot:spring-boot-starter-actuator'
+
+    // Config Client
+    implementation 'org.springframework.cloud:spring-cloud-starter-config:3.0.4'
+
+
 }
 
 test {
@@ -36,5 +50,5 @@ dependencies {
 test {
     useJUnitPlatform()
 }
-mainClassName = 'com.service.Main'
+//mainClassName = 'com.service.Main'
 

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="MSA_Architeture.Service_1">
+    <output-path>$PROJECT_DIR$/out/artifacts/MSA_Architeture_Service_1</output-path>
+    <root id="root">
+      <element id="archive" name="MSA_Architeture_Service_1.jar">
+        <element id="module-output" name="MSA_Architeture.Service_1" />
+      </element>
+    </root>
+  </artifact>
+</component>

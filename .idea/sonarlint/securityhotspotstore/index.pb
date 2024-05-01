@@ -7,10 +7,6 @@
 gradlew.bat,2\a\2a45a911a8f1836b0b6c5b758962572012d8f8c3
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-b
-2Service_1/src/main/java/com/service/S1_Entity.java,4\9\494f1b9baa3a4e9f4ef3c90c38ae31040e3639ba
-]
--Service_1/src/main/java/com/service/Main.java,d\f\df038a05333922e09250425958c2a39610ed1fb5
 K
 .gradle/vcs-1/gc.properties,3\f\3fa1ed8f1b4e1b9c233b6023870998c667d79f5c
 F
@@ -42,3 +38,33 @@ X
 -Service_2/src/main/java/com/service/Main.java,e\b\eb5d475512edc6453cc849fc3db8b0a21a7c4877
 I
 .gradle/8.0/gc.properties,9\d\9de4a0f0c23715c734a1e85518a52741422612c7
+P
+ Service_1/application.properties,a\f\aff14562333c317912a4d09912d0d402e8c42ffa
+v
+FService_1/src/main/java/com/service/LimitsConfigurationController.java,a\4\a4dee91b3397bb5dfa10b5354cad525c25b7f8e7
+k
+;Service_1/src/main/java/com/service/LimitConfiguration.java,6\5\6530c91d33923091fdc93a5196b9b91002593b89
+q
+AService_1/src/main/java/com/service/LimitsServiceApplication.java,e\b\ebc8ea91085fb8ea1e2ae00fe1571fed98d36f88
+F
+application.properties,2\f\2f692484526a88bd040e1ec9f8c211bca74f6755
+f
+6Service_1/src/main/java/com/service/Configuration.java,7\5\75cb4eaeda7665ccaa01607700a80ffcdd986415
+
+Q.idea/sonarlint/securityhotspotstore/6/5/6530c91d33923091fdc93a5196b9b91002593b89,d\1\d16dc2f180a429b874b7b3772b4f3f8751cb8503
+w
+G.idea/sonarlint/issuestore/a/f/aff14562333c317912a4d09912d0d402e8c42ffa,a\e\ae70323d8b777c1249742af346d3cf9fa15de4b2
+
+Q.idea/sonarlint/securityhotspotstore/a/f/aff14562333c317912a4d09912d0d402e8c42ffa,a\f\af605c0861ffd79214b198f6f8fc25036f4f7655
+
+Q.idea/sonarlint/securityhotspotstore/7/5/75cb4eaeda7665ccaa01607700a80ffcdd986415,3\0\30265229b0ee130f8974de2509298494395414f7
+
+Q.idea/sonarlint/securityhotspotstore/2/f/2f692484526a88bd040e1ec9f8c211bca74f6755,c\d\cd6a14128c1239b835deb1b320ac9c8f71afbecc
+
+Q.idea/sonarlint/securityhotspotstore/a/4/a4dee91b3397bb5dfa10b5354cad525c25b7f8e7,6\d\6daf929c4267dfb93ccdeab31aedced9af6afbf4
+w
+G.idea/sonarlint/issuestore/2/f/2f692484526a88bd040e1ec9f8c211bca74f6755,0\c\0cede85dedca5204e99f2e3dff0309f374f10204
+]
+-.idea/artifacts/MSA_Architeture_Service_1.xml,2\4\242e925c90e34bc0ea67a8dc4081c07cd091a780
+
+Q.idea/sonarlint/securityhotspotstore/e/b/ebc8ea91085fb8ea1e2ae00fe1571fed98d36f88,4\1\41964d38514ebe6c40f67b9527535d6120df343d
